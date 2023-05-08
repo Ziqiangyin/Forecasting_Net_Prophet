@@ -24,7 +24,7 @@ Based on the two time series presented above, it can be observed that the stock 
 
 ![stockpricetrend.png](Images/stockpricetrend.png)
 
-![searchtrend.png](Images/searchtrend.png)
+![searchtrends.png](Images/searchtrends.png)
 
 According to the correlation table, there appears to be a negative correlation between lagged search traffic and stock volatility, with a correlation coefficient of -0.1489. In contrast, there seems to be a weak and inconclusive positive correlation between lagged search traffic and hourly stock returns, as evidenced by the correlation coefficient of 0.01793, which is close to zero and suggests no clear linear relationship between these two variables.
 
